@@ -18,7 +18,8 @@ Useful for vehicle security, fleet management, and remote monitoring.
 - SIM800L GSM module (or SIM900)
 - Power supply (battery or 12V)
 - Wires, breadboard (or PCB for final setup)
-
+![Vehicle Tracker Prototype](images/arduino-vehicle-tracker-gps-gsm.jpg)
+https://github.com/AbdaullahDiaa2/arduino-vehicle-tracker-gps-gsm/blob/main/arduino-vehicle-tracker-gps-gsm.jpg
 ## 📘 How it Works
 
 1. The GPS module receives satellite signals to determine the vehicle's location.
