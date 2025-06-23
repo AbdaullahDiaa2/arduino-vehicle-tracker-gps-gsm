@@ -13,9 +13,8 @@ Useful for vehicle security, fleet management, and remote monitoring.
 
 ## 🛠️ Components Used
 
-- Arduino Uno (or compatible board)
-- NEO-6M GPS module
-- SIM800L GSM module (or SIM900)
+- Arduino Uno 
+- SIM800L GSM module and GPS module
 - Power supply (battery or 12V)
 - Wires, breadboard 
 ![Vehicle Tracker Prototype](/arduino-vehicle-tracker-gps-gsm.jpg)
@@ -27,6 +26,8 @@ https://github.com/AbdaullahDiaa2/arduino-vehicle-tracker-gps-gsm/blob/main/ardu
 2. The Arduino reads the GPS data and formats the latitude/longitude.
 3. The GSM module sends the location as an SMS to a preset phone number.
 4. You can request location by sending a specific command via SMS (optional feature).
+
+![Vehicle Tracker Prototype](/LCD.jpg)
 
 ## 🧠 Future Improvements
 
