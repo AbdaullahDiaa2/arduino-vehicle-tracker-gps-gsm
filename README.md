@@ -17,8 +17,9 @@ Useful for vehicle security, fleet management, and remote monitoring.
 - NEO-6M GPS module
 - SIM800L GSM module (or SIM900)
 - Power supply (battery or 12V)
-- Wires, breadboard (or PCB for final setup)
+- Wires, breadboard 
 ![Vehicle Tracker Prototype](images/arduino-vehicle-tracker-gps-gsm.jpg)
+
 https://github.com/AbdaullahDiaa2/arduino-vehicle-tracker-gps-gsm/blob/main/arduino-vehicle-tracker-gps-gsm.jpg
 ## 📘 How it Works
 
